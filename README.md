@@ -9,4 +9,7 @@ After clicking the button , we find change in the scoreboard🃏🃏
 
 
 Below is the attachment for UI of the WAR CARD GAME.
-https://github-production-user-asset-6210df.s3.amazonaws.com/89248384/281789626-bb2e1c49-926d-49e6-acbe-8e45a555b7d8.jpg
+<p align="center">
+<img width="240" alt="screensort" src="https://github.com/Shreya3023/War-Card-Game/assets/89248384/b72b54e5-ea7a-448b-87a8-99e36c8c9358">
+
+</p>
